@@ -12,6 +12,9 @@ __pycache__/
 # Mac junk
 .DS_Store
 
+# venv
+streamlit/
+
 # Distribution / packaging
 .Python
 build/

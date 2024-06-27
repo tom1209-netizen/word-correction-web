@@ -16,8 +16,8 @@ To run this application, you need to have Python installed on your machine. Foll
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/word-correction-app.git
-cd word-correction-app
+git clone https://github.com/tom1209-netizen/word-correction-web.git
+cd word-correction-web
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
